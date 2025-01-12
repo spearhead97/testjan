@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with a bug fix and commits
+          Learn React with a bug fix and commits and squash
         </a>
       </header>
     </div>
