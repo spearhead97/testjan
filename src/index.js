@@ -11,7 +11,7 @@ root.render(
   </React.StrictMode>
 );
 
-//wrap with Auth context and logger
+//wrap with Auth context and logger and apply fix on 20th Jan
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
