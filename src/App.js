@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with a bug fix fix on 20th jan in new bug fix 
+          Learn react fresh nug fix
         </a>
       </header>
     </div>
