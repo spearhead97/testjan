@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn react fresh with newbug-fix and new changes
+          Learn react fresh with newbug-fix change on 23rd jan
         </a>
       </header>
     </div>
